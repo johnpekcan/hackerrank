@@ -1,3 +1,4 @@
+#!/bin/python3
 number = int(input())
 array = map(int, input().split())
 answer = []
